@@ -13,4 +13,4 @@ The program enviroment can be created with CarND Starter Kit. Click [here](https
 
 You can also check my `Lenet.html` for online result.
 
-**Note:** This project is not difficult, just a implementation of `Convolution Neural Network`. But it can help get familiar with CNN.
+**Note:** This project is a implementation of `Convolution Neural Network`. It is not too dificult but can help get familiar with CNN.
